@@ -1,6 +1,6 @@
 <h1 align="center"> Note Taking Android App </h1>
 
-## Kotlin  ## MVVM  ## Clean Architecture ## SOLID Principles ## Room Database ## Digger Hilt
+## # Kotlin # MVVM # Clean Architecture # SOLID Principles # Room Database # Digger Hilt
 
 
 ## About Note Taking Android App
