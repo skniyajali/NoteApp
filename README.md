@@ -27,7 +27,7 @@ It is a simple note taking android app devlop using Kotlin & Jetpack - Compose,
 
 - 📫 Reach me out **niyaj320@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/skniyajali/](Github)
+- 📄 Know about my experiences [Github](https://github.com/skniyajali/)
 
 - ⚡ Fun fact **i think i'm funny**
 
