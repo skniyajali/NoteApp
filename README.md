@@ -1,6 +1,6 @@
 <h1 align="center"> Note Taking Android App </h1>
 
-## # Kotlin # MVVM # Clean Architecture # SOLID Principles # Room Database # Digger Hilt
+## `# Kotlin # MVVM # Clean Architecture # SOLID Principles # Room Database # Digger Hilt`
 
 
 ## About Note Taking Android App
@@ -11,7 +11,7 @@ It is a simple note taking android app devlop using Kotlin & Jetpack - Compose,
  - For Dependency Injection I've use Digger Hilt.
  - Now i've implemented only one features which is perform CRUD opertaion of the note.
 
-## About Author
+## About Developer
 
 <h1 align="center">Hi 👋, I'm Sk Niyaj Ali</h1>
 <h3 align="center">A passionate frontend and backend developer from India</h3>
