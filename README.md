@@ -48,6 +48,3 @@ It is a simple note taking android app devlop using Kotlin & Jetpack - Compose,
 Thank you for considering contributing to this project
 
 <a href="https://www.buymeacoffee.com/skniyajali" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-## License
-
-The Application is Developed by **[SK NIYAJ ALI](https://github.com/skniyajali/)** and it is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
