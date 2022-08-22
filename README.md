@@ -1,14 +1,13 @@
-<h1 align="center"> Note Taking Android App </h1>
+# <h1 align="center"> Note Taking Android App </h1>
 
-## `# Kotlin # MVVM # Clean Architecture # SOLID Principles # Room Database # Digger Hilt`
-
+## <h2 align="center"> `` Kotlin | MVVM | Clean Architecture | SOLID Principles| API Intregation | Room Database | Dagger Hilt `` </h2>
 
 ## About Note Taking Android App
 
 It is a simple note taking android app devlop using Kotlin & Jetpack - Compose,  
  - I've used Clean Architecture and SOLID Principles for better reusability & performance.
  - I've used Room database for saving the data.
- - For Dependency Injection I've use Digger Hilt.
+ - For Dependency Injection I've use Dagger Hilt.
  - Now i've implemented only one features which is perform CRUD opertaion of the note.
 
 ## About Developer
